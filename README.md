@@ -14,7 +14,7 @@ Lightweight, zero-dependency Bash utilities designed to inspect system health, p
 To install the scripts into `/usr/local/bin` and activate background automation in one step, run your Gist bootstrapper command in Terminal:
 
 ```bash
-curl -fsSL https://gist.github.com/mmmonowar/6c474f5144071d6aac2bc14dff21f10a | bash
+curl -fsSL https://gist.githubusercontent.com/mmmonowar/6c474f5144071d6aac2bc14dff21f10a/raw/3595cf8c330be63c22f796b2cc12b9d4c8598606/install.sh | bash
 
 ```
 
